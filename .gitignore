@@ -1,0 +1,8 @@
+.venv/
+platform-tools/
+__pycache__/
+*.pyc
+*.spec
+build/
+dist/
+devices.json
